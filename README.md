@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love listening Music and playing PC games
 
 
-[![Auishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=auishikpyne)](https://github.com/auishikpyne/github-readme-stats)
+[![Auishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=auishikpyne&theme=radical)](https://github.com/auishikpyne/github-readme-stats)
 
 
 
