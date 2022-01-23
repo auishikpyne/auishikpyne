@@ -15,12 +15,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Auishik Pyne's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=auishikpyne&show_icons=true&hide_border=true" />
-
-</details>
 
 [email]: auishikpyne@gmail.com
 [twitter]: https://twitter.com/AuishikP
