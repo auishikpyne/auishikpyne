@@ -1,5 +1,5 @@
 
-### Hi there, I'm Auishik Pyne 👋
+### Hi there, I'm Auishik 👋
 
 
 
