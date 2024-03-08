@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on multiple ML projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on various open source projects
-- 🥅 2023 Goals: Level up my programming and ML skills
+- 🥅 2024 Goals: Level up my programming and ML skills
 - ⚡ Fun fact: I love listening Music and playing PC games
 
 
